@@ -117,17 +117,9 @@ Specialization: Generative AI
 **B.Com (Hons) / BBA-FIA** *(Pursuing – SOL)*  
 
 **CA Intermediate – Group 1 Cleared**
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=TKQ21&theme=onedark&row=1&column=6" />
-
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKQ21&theme=dark)
-
-## 🌐 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKQ21&layout=compact&theme=dark&langs_count=8" />
-
 
 ---
 
