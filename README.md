@@ -36,9 +36,52 @@ NumPy · Pandas · Matplotlib · Seaborn · Advanced Excel
 Machine Learning · Deep Learning · NLP · Generative AI
 </p>
 
-## 🚀 Projects
-🛠️ Currently building end-to-end Data Science & GenAI projects.  
-Updates coming soon.
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>📰 Fake News Detection</h3>
+<p>ML & NLP based application to classify news as fake or real.</p>
+<a href="https://github.com/TKQ21/Fake-News-Detection">🔗 View Repository</a>
+</td>
+
+<td width="50%">
+<h3>📄 Resume Analyzer</h3>
+<p>NLP based resume analysis and job relevance scoring app.</p>
+<a href="https://github.com/TKQ21/Resume-Analyzer">🔗 View Repository</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>🌿 Plant Disease Detection</h3>
+<p>Deep learning application to detect plant diseases from images.</p>
+<a href="https://github.com/TKQ21/Plant-Disease-Detection">🔗 View Repository</a>
+</td>
+
+<td width="50%">
+<h3>😀 Face Detection</h3>
+<p>Computer vision project to detect human faces in images.</p>
+<a href="https://github.com/TKQ21/Face-Detection">🔗 View Repository</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>😷 Mask Detection</h3>
+<p>Deep learning based face mask detection system.</p>
+<a href="https://github.com/TKQ21/Mask-Detection">🔗 View Repository</a>
+</td>
+
+<td width="50%">
+<h3>📊 Customer Churn Prediction</h3>
+<p>Machine learning model to predict customer churn.</p>
+<a href="https://github.com/TKQ21/customer-churn-prediction-ml">🔗 View Repository</a>
+</td>
+</tr>
+</table>
+
 
 ## 🎓 Education
 
