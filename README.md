@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
-<h3 align="center">
 <h3 align="center">📊 Data Scientist | Business Intelligence | Generative AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tkq&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/tkq?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/tkq?label=Stars&style=flat&color=0e75b6" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=TKQ21
+  <img src="https://img.shields.io/github/followers/TKQ21
+  <img src="https://img.shields.io/github/stars/TKQ21
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E5FF&center=true&vCenter=true&width=700&lines=Master’s+Student+in+Data+Science;Business+Intelligence+Developer;GenAI+Projects+Builder;Open+to+Internships+and+Jobs" />
 </p>
@@ -56,7 +55,7 @@ Machine Learning · Deep Learning · NLP · Generative AI
 <tr>
 <td width="50%">
 <h3>🌿 Plant Disease Detection</h3>
-<p>Deep learning application to detect plant diseases from images.</p>
+<p>Conceptual deep learning pipeline to detect plant diseases</p>
 <a href="https://github.com/TKQ21/Plant-Disease-Detection">🔗 View Repository</a>
 </td>
 
@@ -70,7 +69,7 @@ Machine Learning · Deep Learning · NLP · Generative AI
 <tr>
 <td width="50%">
 <h3>😷 Mask Detection</h3>
-<p>Deep learning based face mask detection system.</p>
+<p>Conceptual deep learning pipeline to detect mask detection.</p>
 <a href="https://github.com/TKQ21/Mask-Detection">🔗 View Repository</a>
 </td>
 
@@ -139,6 +138,8 @@ Specialization: Generative AI
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<img src="https://raw.githubusercontent.com/TKQ21/TKQ21/output/github-contribution-grid-snake.svg" />
+
 
 ## Animated Stats
 <p align="center">
