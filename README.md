@@ -99,8 +99,9 @@ Specialization: Generative AI
 ![Stats](https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=dark)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKQ21&theme=dark)
 
-## 📈 Top Languages
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TKQ21&layout=compact&theme=dark)
+## 🌐 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKQ21&layout=compact&theme=dark&langs_count=8" />
+
 
 ---
 
