@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
 <h3 align="center">📊 Data Scientist | Business Intelligence | Generative AI</h3>
-                         <img src="https://img.shields.io/github/followers/TKQ21?style=flat-square" />
-                         <img src="https://komarev.com/ghpvc/?username=TKQ21&label=Profile%20Views&color=0e75b6&style=flat" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TKQ21&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/TKQ21?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/TKQ21?label=Stars&style=flat&color=0e75b6" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TKQ21
