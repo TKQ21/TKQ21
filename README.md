@@ -92,7 +92,8 @@ Specialization: Generative AI
 
 **CA Intermediate – Group 1 Cleared**
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=TKQ21&theme=darkhub)
+<img src="https://github-profile-trophy.vercel.app/?username=TKQ21&theme=onedark&row=1&column=6" />
+
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=dark)
