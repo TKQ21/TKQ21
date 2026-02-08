@@ -138,14 +138,6 @@ Specialization: Generative AI
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<img src="https://raw.githubusercontent.com/TKQ21/TKQ21/output/github-contribution-grid-snake.svg" />
-
-
-## Animated Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TKQ21&theme=tokyonight&hide_border=true" />
-</p> 
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TKQ21&bg_color=0d1117&color=00E5FF&line=7F00FF&point=FFFFFF&hide_border=true" />
 
