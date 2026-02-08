@@ -119,7 +119,7 @@ Specialization: Generative AI
 **CA Intermediate – Group 1 Cleared**
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKQ21&theme=dark)
 
 ---
 
