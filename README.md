@@ -109,6 +109,22 @@ Specialization: Generative AI
   <a href="https://www.linkedin.com/in/thekaifqureshi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
+   <a href="https://www.youtube.com/@TKQFINANCE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://www.quora.com/profile/TKQ" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/TKQDawah" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://in.pinterest.com/TKQDawah/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  </a>
+</p>
   <a href="https://medium.com/@thekaifqureshi21" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
   </a>
