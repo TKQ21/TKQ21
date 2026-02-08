@@ -45,14 +45,42 @@ Machine Learning · Deep Learning · NLP · Generative AI
 <table>
 <tr>
 <td width="50%">
+<h3>📊 Customer Churn Prediction</h3>
+<p>Machine learning model to predict customer churn using structured data.</p>
+<a href="https://github.com/TKQ21/customer-churn-prediction-ml">🔗 View Repository</a>
+</td>
+
+<td width="50%">
+<h3>💳 Loan Risk Prediction</h3>
+<p>ML-based system to assess loan default risk using financial features.</p>
+<a href="https://github.com/TKQ21/Loan-Risk-Prediction">🔗 View Repository</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>📈 Sales Forecasting</h3>
+<p>Time-series based sales forecasting pipeline using historical data.</p>
+<a href="https://github.com/TKQ21/Sales-Forecasting">🔗 View Repository</a>
+</td>
+
+<td width="50%">
+<h3>💬 Sentiment Analysis</h3>
+<p>NLP-based sentiment analysis pipeline for text classification.</p>
+<a href="https://github.com/TKQ21/Sentiment-Analysis">🔗 View Repository</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 <h3>📰 Fake News Detection</h3>
-<p>ML & NLP based application to classify news as fake or real.</p>
+<p>Conceptual NLP pipeline to classify news as fake or real.</p>
 <a href="https://github.com/TKQ21/Fake-News-Detection">🔗 View Repository</a>
 </td>
 
 <td width="50%">
 <h3>📄 Resume Analyzer</h3>
-<p>NLP based resume analysis and job relevance scoring app.</p>
+<p>NLP-based resume analysis and job relevance scoring system.</p>
 <a href="https://github.com/TKQ21/Resume-Analyzer">🔗 View Repository</a>
 </td>
 </tr>
@@ -60,13 +88,13 @@ Machine Learning · Deep Learning · NLP · Generative AI
 <tr>
 <td width="50%">
 <h3>🌿 Plant Disease Detection</h3>
-<p>Conceptual deep learning pipeline to detect plant diseases</p>
+<p>Conceptual deep learning pipeline for detecting plant diseases from images.</p>
 <a href="https://github.com/TKQ21/Plant-Disease-Detection">🔗 View Repository</a>
 </td>
 
 <td width="50%">
 <h3>😀 Face Detection</h3>
-<p>Computer vision project to detect human faces in images.</p>
+<p>Computer vision pipeline for detecting human faces in images.</p>
 <a href="https://github.com/TKQ21/Face-Detection">🔗 View Repository</a>
 </td>
 </tr>
@@ -74,14 +102,8 @@ Machine Learning · Deep Learning · NLP · Generative AI
 <tr>
 <td width="50%">
 <h3>😷 Mask Detection</h3>
-<p>Conceptual deep learning pipeline to detect mask detection.</p>
+<p>AI-assisted deep learning pipeline for face mask detection.</p>
 <a href="https://github.com/TKQ21/Mask-Detection">🔗 View Repository</a>
-</td>
-
-<td width="50%">
-<h3>📊 Customer Churn Prediction</h3>
-<p>Machine learning model to predict customer churn.</p>
-<a href="https://github.com/TKQ21/customer-churn-prediction-ml">🔗 View Repository</a>
 </td>
 </tr>
 </table>
