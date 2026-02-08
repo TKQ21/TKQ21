@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
 <h3 align="center">📊 Data Scientist | Business Intelligence | Generative AI</h3>
+<img src="https://img.shields.io/github/followers/TKQ21?style=flat-square" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TKQ21
