@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TKQ21
- <img src="https://img.shields.io/github/followers/tkq
+  <img src="https://img.shields.io/github/followers/TKQ21?label=Followers&style=flat&color=0e75b6" />
   <img src="https://img.shields.io/github/stars/TKQ21
 
 <p align="center">
