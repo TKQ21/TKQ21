@@ -28,24 +28,23 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <h4>✅ Core & Actively Learning</h4>
-![Python](https://img.shields.io/badge/Python-Active-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Advanced Python](https://img.shields.io/badge/Advanced_Python-OOP_Async-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Problem_Solving-0A66C2?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Productivity-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge)
 
 <h4>🚀 Exploring & Learning</h4>
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Neural_Networks-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Text_AI-8E44AD?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs-6E00FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7F00FF?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Featured Projects
 
