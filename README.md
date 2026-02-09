@@ -134,9 +134,7 @@ Specialization: Generative AI
 
 ## 📊 GitHub Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKQ21&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TKQ21&theme=tokyonight)
 
 ---
 
