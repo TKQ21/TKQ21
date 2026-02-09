@@ -24,32 +24,22 @@
 - 🌱 Currently learning **Advanced ML & GenAI**
 - 📫 Email: **thekaifqureshi21@gmail.com**
 
-- https://github-profile-trophy.vercel.app/?username=TKQ21&theme=darkhub&no-frame=true&row=1
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative%20AI-7F00FF?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge)
-
-
 
 <h3 align="center">🛠 Tech Stack</h3>
 
 <h4>✅ Core & Actively Learning</h4>
-<p>
-Python · Data Structures & Algorithms · SQL (MySQL) · MongoDB · 
-NumPy · Pandas · Matplotlib · Seaborn · Advanced Excel
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
 <h4>🚀 Exploring & Learning</h4>
-<p>
-Machine Learning · Deep Learning · NLP · Generative AI
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative%20AI-7F00FF?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge)
 
 ## 🚀 Featured Projects
 
