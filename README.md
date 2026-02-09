@@ -38,12 +38,10 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-Statistics-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
 <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/>
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
 
