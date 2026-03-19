@@ -41,8 +41,6 @@
 <img src="https://img.shields.io/badge/Generative_AI-7F00FF?style=for-the-badge"/>
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TKQ21&theme=darkhub&no-frame=true&row=1)
-
 
 ## 🚀 Featured Projects
 
