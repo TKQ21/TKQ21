@@ -110,6 +110,23 @@
 </tr>
 </table>
 
+# 🏆 GitHub Achievements & Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TKQ21&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
+
+## 📊 Detailed Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00eaff&text_color=ffffff&icon_color=ff00ff" alt="GitHub Stats" height="190px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKQ21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff00ff&text_color=ffffff&icon_color=00eaff" alt="Top Languages" height="190px">
+</p>
+
+## 🔥 Consistency Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TKQ21&theme=radical&hide_border=true&background=0D1117&ring=00eaff&fire=00ff85&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak">
+</p>
+
 
 ## 🎓 Education
 
