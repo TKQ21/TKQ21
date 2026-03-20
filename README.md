@@ -122,10 +122,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKQ21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff00ff&text_color=ffffff&icon_color=00eaff" alt="Top Languages" height="190px">
 </p>
 
-## 🔥 Consistency Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TKQ21&theme=radical&hide_border=true&background=0D1117&ring=00eaff&fire=00ff85&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak">
-</p>
 
 
 ## 🎓 Education
