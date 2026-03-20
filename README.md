@@ -113,7 +113,7 @@
 # 🏆 GitHub Achievements & Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TKQ21&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://gh-trophy.cdnsoft.net/?username=TKQ21&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15"
 </p>
 
 ## 📊 Detailed Stats
