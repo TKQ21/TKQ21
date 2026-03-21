@@ -52,7 +52,7 @@
       <a href="https://ai-rag-system.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/RAG-SYSTEM-AND-AGENTIC-AI-WORKFLOWS">💻 GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/TKQ21/MINDSPARK-AI" alt="MindSpark AI" width="100%" />
+      <img src="https://github.com/TKQ21/MINDSPARK-AI/blob/main/mindspark-ai.png" alt="MindSpark AI" width="100%" />
       <h3>🧠 MindSpark AI</h3>
       <p>Next-gen AI conversational agent with advanced empathy and problem-solving capabilities.</p>
       <a href="https://mindspark-ai-chatbot.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/MINDSPARK-AI">💻 GitHub</a>
@@ -66,7 +66,7 @@
       <a href="https://study-helper-roman-hindi.lovable.app/">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/AI-STUDY-HELPER">💻 GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/TKQ21/HOSPITAL-MANAGEMENT" alt="Hospital Management" width="100%" />
+      <img src="https://github.com/TKQ21/HOSPITAL-MANAGEMENT/blob/main/hospital-management.png" alt="Hospital Management" width="100%" />
       <h3>🏥 AI Hospital Management</h3>
       <p>Full-scale AI workflow for hospital triage, record processing, and resource optimization.</p>
       <a href="https://doctor-assistant.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/HOSPITAL-MANAGEMENT">💻 GitHub</a>
@@ -74,13 +74,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/TKQ21/electricity-predictor" alt="Electricity" width="100%" />
+      <img src="https://github.com/TKQ21/ELECTRICITY-PREDICTOR/blob/main/electricity-predictor.png" alt="Electricity" width="100%" />
       <h3>⚡ Electricity Predictor</h3>
       <p>ML time-series prediction system for global electricity demand and pattern analysis.</p>
       <a href="https://electricity-predict.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/electricity-predictor">💻 GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/TKQ21/AREA--PROBLEM-DETECTION" alt="Area Problem" width="100%" />
+      <img src="https://github.com/TKQ21/AREA-PROBLEM-DETECTION/blob/main/area-problem-detection.png" alt="Area Problem" width="100%" />
       <h3>📍 Area Problem Detection</h3>
       <p>Geospatial AI detector for identifying infrastructure and environmental issues locally.</p>
       <a href="https://area-problem-detection.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/AREA--PROBLEM-DETECTION">💻 GitHub</a>
