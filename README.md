@@ -42,72 +42,50 @@
 
 
 
-## 🚀 Featured Projects
-
+## ⭐ Featured Projects
 <table>
-<tr>
-<td width="50%">
-<h3>📊 Customer Churn Prediction</h3>
-<p>Machine learning model to predict customer churn using structured data.</p>
-<a href="https://github.com/TKQ21/customer-churn-prediction-ml">🔗 View Repository</a>
-</td>
-
-<td width="50%">
-<h3>💳 Loan Risk Prediction</h3>
-<p>ML-based system to assess loan default risk using financial features.</p>
-<a href="https://github.com/TKQ21/Loan-Risk-Prediction">🔗 View Repository</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3>📈 Sales Forecasting</h3>
-<p>Time-series based sales forecasting pipeline using historical data.</p>
-<a href="https://github.com/TKQ21/Sales-Forecasting">🔗 View Repository</a>
-</td>
-
-<td width="50%">
-<h3>💬 Sentiment Analysis</h3>
-<p>NLP-based sentiment analysis pipeline for text classification.</p>
-<a href="https://github.com/TKQ21/Sentiment-Analysis">🔗 View Repository</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3>📰 Fake News Detection</h3>
-<p>Conceptual NLP pipeline to classify news as fake or real.</p>
-<a href="https://github.com/TKQ21/Fake-News-Detection">🔗 View Repository</a>
-</td>
-
-<td width="50%">
-<h3>📄 Resume Analyzer</h3>
-<p>NLP-based resume analysis and job relevance scoring system.</p>
-<a href="https://github.com/TKQ21/Resume-Analyzer">🔗 View Repository</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3>🌿 Plant Disease Detection</h3>
-<p>Conceptual deep learning pipeline for detecting plant diseases from images.</p>
-<a href="https://github.com/TKQ21/Plant-Disease-Detection">🔗 View Repository</a>
-</td>
-
-<td width="50%">
-<h3>😀 Face Detection</h3>
-<p>Computer vision pipeline for detecting human faces in images.</p>
-<a href="https://github.com/TKQ21/Face-Detection">🔗 View Repository</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3>😷 Mask Detection</h3>
-<p>AI-assisted deep learning pipeline for face mask detection.</p>
-<a href="https://github.com/TKQ21/Mask-Detection">🔗 View Repository</a>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/TKQ21/RAG-SYSTEM-AND-AGENTIC-AI-WORKFLOWS/main/Screenshot%20(162).png" alt="RAG System" width="100%" />
+      <h3>🤖 AI RAG System</h3>
+      <p>Production-grade RAG pipeline with Agentic AI workflows for complex document intelligence.</p>
+      <a href="https://ai-rag-system.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/RAG-SYSTEM-AND-AGENTIC-AI-WORKFLOWS">💻 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://opengraph.githubassets.com/1/TKQ21/MINDSPARK-AI" alt="MindSpark AI" width="100%" />
+      <h3>🧠 MindSpark AI</h3>
+      <p>Next-gen AI conversational agent with advanced empathy and problem-solving capabilities.</p>
+      <a href="https://mindspark-ai-chatbot.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/MINDSPARK-AI">💻 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/TKQ21/AI-STUDY-HELPER/main/ai-study-helper.png" alt="Study Helper" width="100%" />
+      <h3>📚 AI Study Helper</h3>
+      <p>Advanced NLP-powered study assistant for Hinglish concept clarification and note summarization.</p>
+      <a href="https://study-helper-roman-hindi.lovable.app/">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/AI-STUDY-HELPER">💻 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://opengraph.githubassets.com/1/TKQ21/HOSPITAL-MANAGEMENT" alt="Hospital Management" width="100%" />
+      <h3>🏥 AI Hospital Management</h3>
+      <p>Full-scale AI workflow for hospital triage, record processing, and resource optimization.</p>
+      <a href="https://doctor-assistant.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/HOSPITAL-MANAGEMENT">💻 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://opengraph.githubassets.com/1/TKQ21/electricity-predictor" alt="Electricity" width="100%" />
+      <h3>⚡ Electricity Predictor</h3>
+      <p>ML time-series prediction system for global electricity demand and pattern analysis.</p>
+      <a href="https://electricity-predict.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/electricity-predictor">💻 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://opengraph.githubassets.com/1/TKQ21/AREA--PROBLEM-DETECTION" alt="Area Problem" width="100%" />
+      <h3>📍 Area Problem Detection</h3>
+      <p>Geospatial AI detector for identifying infrastructure and environmental issues locally.</p>
+      <a href="https://area-problem-detection.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/AREA--PROBLEM-DETECTION">💻 GitHub</a>
+    </td>
+  </tr>
 </table>
 
 # 🏆 GitHub Achievements & Analytics
