@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/TKQ21/RAG-SYSTEM-AND-AGENTIC-AI-WORKFLOWS/main/Screenshot%20(162).png" alt="RAG System" width="100%" />
+      <img src="https://github.com/TKQ21/RAG-SYSTEM-AND-AGENTIC-AI-WORKFLOWS/blob/main/rag-system-and-agentic-ai-workflows.png" alt="RAG System" width="100%" />
       <h3>🤖 AI RAG System</h3>
       <p>Production-grade RAG pipeline with Agentic AI workflows for complex document intelligence.</p>
       <a href="https://ai-rag-system.lovable.app">🚀 Live Demo</a> | <a href="https://github.com/TKQ21/RAG-SYSTEM-AND-AGENTIC-AI-WORKFLOWS">💻 GitHub</a>
