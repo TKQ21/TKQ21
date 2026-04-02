@@ -100,11 +100,12 @@
 </p>
 
 ## 📊 Detailed Stats
+https://github-readme-stats-sigma-five.vercel.app/api?username=TKQ21
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00eaff&text_color=ffffff&icon_color=ff00ff" alt="GitHub Stats" height="190px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKQ21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff00ff&text_color=ffffff&icon_color=00eaff" alt="Top Languages" height="190px">
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=TKQ21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00aeff&text_color=ffffff&icon_color=ff00ff&cache_seconds=86400&v=3">
 
 
 ## 🎓 Education
